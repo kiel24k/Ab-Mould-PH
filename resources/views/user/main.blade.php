@@ -16,6 +16,7 @@
 
 <body id="body">
     <main class="main">
+        <h1>Test</h1>
         @yield('user')
     </main>
 
